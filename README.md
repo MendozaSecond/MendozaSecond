@@ -2,7 +2,7 @@
 
 ### Desarrollador de Software Multiplataforma
 
-![Perfil de Edwin Mendoza](https://avatars.githubusercontent.com/u/142261416?v=4)
+
 
 ---
 
