@@ -2,7 +2,8 @@
 
 ### Desarrollador de Software Multiplataforma
 
-![Perfil de Edwin Mendoza](https://photos.fife.usercontent.google.com/pw/AP1GczNC6ew4puc_iUSJwS2uKhyXIwIM9PmHJEJHpVQSQopr4_om76C4nxkz=w500-h500-s-no-gm?authuser=0)
+![Perfil de Edwin Mendoza](https://drive.google.com/uc?export=view&id=1SwAS1zSfiCFZlRKT76sgR8dOybBj2qGF
+)
 
 ---
 
