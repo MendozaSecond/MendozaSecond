@@ -2,7 +2,7 @@
 
 ### Desarrollador de Software Multiplataforma
 
-![Perfil de Edwin Mendoza](URL_DE_TU_IMAGEN)
+![Perfil de Edwin Mendoza](https://avatars.githubusercontent.com/u/142261416?v=4)
 
 ---
 
@@ -18,18 +18,18 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MendozaSecond&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MendozaSecond&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Proyectos Destacados
 
-### [Proyecto 1](https://github.com/MendozaSecond/App-mobil-Autenticacion-Firebase)
+### [APP Login y Cloud Imagen](https://github.com/MendozaSecond/App-mobil-Autenticacion-Firebase)
 Es un repositorio de mi proyecto en Kotlin de un Login por correo y contraseña desde firebase, con subida de imagenes y almacenamiento de ellas.
 
-### [Proyecto 2](https://github.com/MendozaSecond/U2Taller)
+### [APP Equipo](https://github.com/MendozaSecond/U2Taller)
 Es un repositorio de mi proyecto en Kotlin de subida de equipo con su descripcion en firebase
 
 ---
