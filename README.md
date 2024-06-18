@@ -1,10 +1,8 @@
-# ¡Hola! 👋 Soy Edwin Mendoza
+# ¡Hola! 👋 Soy Edwin Mendoza      C.
 
 ### Desarrollador de Software Multiplataforma
-
 ![Perfil de Edwin Mendoza](https://drive.google.com/uc?export=view&id=1SwAS1zSfiCFZlRKT76sgR8dOybBj2qGF
 )
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
